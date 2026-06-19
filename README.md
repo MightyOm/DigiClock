@@ -52,11 +52,5 @@ Built with **Python** and **PyQt6**, this project leverages Windows registry hoo
 
 ## 💡 Customization & Contribution
 Feel free to fork this repository, submit issues, or create pull requests. Whether you want to add new themes, support for multiple time zones, or custom alarms, contributions are highly encouraged!
-
 ---
-
-## 📝 License
-This project is open-source and available under the **MIT License**.
-
----
-*Built with ❤️ for those who appreciate a clean desktop aesthetic.*
+*Built with ❤️ and coffee for those who appreciate a clean desktop aesthetic.*
