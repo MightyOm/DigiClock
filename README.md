@@ -1,8 +1,9 @@
 # DigiClock
 Inspired by BroCode's Digital Clock idea, this is my idea of a windows widget which shows time and changes colour based on accent colour chosen by your PC. Also has a transparent background. Not tested enough to check compatibility or OS stuff. Also has a scaling issue needed to be resolved. 
 
-Anyways, to install is simple. Just download zip file and extract to a folder. Keep font and exe file in same folder or the font won't work.
-I'll also give the code out soon in this repo. Just need to make a few aesthetic adjustments.
+Anyways, to install is simple. Just download exe file and the font and extract to a folder. Keep font and exe file in same folder or the font won't work.
+I'll also give the code out soon in this repo. Just need to make a few aesthetic adjustments. 
+Edit 1- The code is added. There ya go.
 
 Here's the AI readme which looks cool because I haven't had much readme making experience yet.
 
@@ -53,4 +54,4 @@ Built with **Python** and **PyQt6**, this project leverages Windows registry hoo
 ## 💡 Customization & Contribution
 Feel free to fork this repository, submit issues, or create pull requests. Whether you want to add new themes, support for multiple time zones, or custom alarms, contributions are highly encouraged!
 ---
-*Built with ❤️ and coffee for those who appreciate a clean desktop aesthetic.*
+*Built with ❤️ and coffee for those who like color changing and clocks like me.*
